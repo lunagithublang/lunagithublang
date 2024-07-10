@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from Philippines</h3>
 
 
-- 📫Reach me here **mdanielarena@gmail.com**
+- 📫 Reach me here **mdanielarena@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
